@@ -16,7 +16,7 @@ Instructions are inside the README file of the /popeye-node folder
 
 Second Run the Popeye React Fronend App located in the /popeye-react folder.
 
-Instructions are inside the README file of the /popeye-node folder
+Instructions are inside the README file of the /popeye-react folder
 
 ## Using the Application 
 
